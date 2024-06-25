@@ -1,3 +1,5 @@
+# Maftuna Zokirova
+
 class Totalpurchase:
     def __init__(self, num_of_items: int, price_per_item: float ) -> None:
         self.num_of_items = num_of_items
